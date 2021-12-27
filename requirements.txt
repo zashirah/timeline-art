@@ -1,0 +1,11 @@
+selenium
+scrapy
+psycopg2-binary
+webdriver_manager
+requests
+bs4
+matplotlib
+pandas
+datetime
+lxml
+boto3
